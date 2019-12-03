@@ -1,7 +1,6 @@
 # Instagram_bot
  Examples of work performed
-###Tables
-                    
+                  
 
 | Item      | Value |
 | --------- | -----:|
