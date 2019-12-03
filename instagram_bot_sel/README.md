@@ -1,13 +1,8 @@
-# Instagram_bot
- Examples of work performed
-                  
-
-| Item      | Value |
+# Instagram bot (selenium)
+                
+| Item      | Version |
 | --------- | -----:|
 | Python  | 3.7.2 |
-| Chrome     |   $12 |
-| Pipe      |    $1 |
-
-
-                
+| Chrome     |78.0.3904.108 |
+| Pipe      |    $1 |             
 ----
